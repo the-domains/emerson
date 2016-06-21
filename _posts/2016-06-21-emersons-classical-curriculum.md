@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Emerson's Classical Curriculum
-datePublished: '2016-06-21T05:16:35.689Z'
-dateModified: '2016-06-21T05:15:50.954Z'
+datePublished: '2016-06-21T05:18:56.952Z'
+dateModified: '2016-06-21T05:18:00.196Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-emersons-classical-curriculum.md
