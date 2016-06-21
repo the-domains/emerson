@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Emerson Academy]]></title>
+        <description><![CDATA[Emerson Academy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 06:19:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emerson's Classical Curriculum]]></title>
+            <description><![CDATA[<article><h1>Emerson's Classical Curriculum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c5b67c-29e1-4db6-8681-e28601ce2d33.jpg"></article>]]></description>
+            <link>undefinedemersons-classical-curriculum/index.html</link>
+            <guid isPermaLink="false">30013f53-3543-421f-863d-04373f6f6fa9</guid>
+            <pubDate>Tue, 21 Jun 2016 06:19:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
