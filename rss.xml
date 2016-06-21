@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Emerson Academy]]></title>
         <description><![CDATA[Emerson Academy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emerson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 06:19:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 06:20:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emerson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Learn with a totally unique approach to mastering English using the lost tools of classical grammar, classical logic, and classical rhetoric. </p>]]></description>
+            <link>https://thegrid.ai/emerson/learn-with-a-totally-unique-approach-to-mastering-english-us/index.html</link>
+            <guid isPermaLink="false">455f0656-4aaa-4b1c-ba2a-679779e91f84</guid>
+            <pubDate>Tue, 21 Jun 2016 06:20:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emerson's Classical Curriculum]]></title>
             <description><![CDATA[<article><h1>Emerson's Classical Curriculum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c5b67c-29e1-4db6-8681-e28601ce2d33.jpg"></article>]]></description>
-            <link>undefinedemersons-classical-curriculum/index.html</link>
+            <link>https://thegrid.ai/emerson/emersons-classical-curriculum/index.html</link>
             <guid isPermaLink="false">30013f53-3543-421f-863d-04373f6f6fa9</guid>
             <pubDate>Tue, 21 Jun 2016 06:19:14 GMT</pubDate>
         </item>
